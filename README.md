@@ -1,18 +1,19 @@
+# Hi there 👋
 # Pedro A. C. Paez - Software Developer Portfolio
 
 Welcome to my GitHub repository! This repository serves as a showcase of my skills, experiences, and projects as a Junior Software Developer specializing in Python programming. Below you'll find details about my professional background, technical skills, and how to get in touch with me.
 
-## Professional Background
+## 🔭 Professional Background
 
 LinkedIn: Pedro A. C. Paez
 GitHub: PedroCPaez/MyPortfolio
 HyperionDev Profile: Pedro A. C. Paez
 
-### Summary
+### 🌱 Summary
 
 I am an Analytical Junior Software Developer with experience in Python programming, particularly in developing systems for the banking sector. My expertise lies in utilizing relational databases to extract and manipulate information. After gaining valuable experience in various roles, including Key Account Manager and Business Development Executive, I am enthusiastic about returning to the dynamic IT world.
 
-#### Experience
+#### 👯 Experience
 
 HyperionDev, South Africa (Remote) - Jr. Software Developer
 Nov 2023 - Mar 2024
@@ -55,7 +56,7 @@ Aug 1993 - Jul 1996
 English: Professional Level
 Spanish: Native Language
 
-### Contact Information
+### 📫 Contact Information
 
       Email: pedrocarreno@outlook.com
       Mobile: +44 07951-372767
@@ -63,22 +64,3 @@ Spanish: Native Language
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out to me for any inquiries or collaboration opportunities.
 
 Note: References are available upon request.
-
-### Hi there 👋
-
-<!--
-**PedroCPaez/PedroCPaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-      Email: pedrocarreno@outlook.com
-      Mobile: +44 07951-372767
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
